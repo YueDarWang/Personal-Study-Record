@@ -99,5 +99,4 @@ int main() {
         solve();
         cout << "\n";
     }
-    return 0;
 }
