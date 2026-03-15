@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\project\\Problems\\\u4E8C\u5206\\Best Cow Fences(acwing102)(luogu_p10450)(\u4E8C\u5206\u7B54\u6848)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA37D49-188E-4F71-92DA-3BF8D8C12A9E}|Best Cow Fences(acwing102)(luogu_p10450)(\u4E8C\u5206\u7B54\u6848).vcxproj|C:\\project\\Problems\\\u4E8C\u5206\\Best Cow Fences(acwing102)(luogu_p10450)(\u4E8C\u5206\u7B54\u6848)\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4CA37D49-188E-4F71-92DA-3BF8D8C12A9E}|Best Cow Fences(acwing102)(luogu_p10450)(\u4E8C\u5206\u7B54\u6848).vcxproj|solutionrelative:FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\project\\Problems\\\u4E8C\u5206\\Best Cow Fences(acwing102)(luogu_p10450)(\u4E8C\u5206\u7B54\u6848)\\FileName.cpp",
+              "RelativeDocumentMoniker": "FileName.cpp",
+              "ToolTip": "C:\\project\\Problems\\\u4E8C\u5206\\Best Cow Fences(acwing102)(luogu_p10450)(\u4E8C\u5206\u7B54\u6848)\\FileName.cpp",
+              "RelativeToolTip": "FileName.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-19T13:05:39.829Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
