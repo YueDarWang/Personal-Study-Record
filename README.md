@@ -1,2 +1,2 @@
 # Personal-Study-Record
-Record my coding learning process
+Record my coding learning process.
