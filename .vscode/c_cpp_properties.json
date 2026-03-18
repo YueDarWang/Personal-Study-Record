@@ -3,22 +3,18 @@
         {
             "name": "Win32",
             "includePath": [
-                "C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++",
-                "C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/x86_64-w64-mingw32",
-                "C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/backward",
-                "C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include",
-                "C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed",
-                "C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/include"
+                "${workspaceFolder}/**"
             ],
             "defines": [
                 "_DEBUG",
                 "UNICODE",
                 "_UNICODE"
             ],
+            "windowsSdkVersion": "10.0.26100.0",
+            "compilerPath": "cl.exe",
             "cStandard": "c23",
-            "cppStandard": "c++26",
-            "intelliSenseMode": "windows-gcc-x64",
-            "compilerPath": "C:\\Program Files\\mingw64\\bin/gcc.exe"
+            "cppStandard": "c++23",
+            "intelliSenseMode": "windows-msvc-x64"
         }
     ],
     "version": 4
