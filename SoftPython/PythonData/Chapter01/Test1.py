@@ -8,14 +8,15 @@
 # print(age,type(age))
 # print("你的名字是{}，你的年龄是{}".format(name,age))
 
-import string
-from string import digits, ascii_letters
+# import string
+# from string import digits, ascii_letters
 
-flag =input()
-if flag in digits:
-    result = "这是数字"
-elif flag in ascii_letters:
-    result ="这是字母"
-else :
-    result ="这是其他字符"
-print(result)
+# flag =input()
+# if flag in digits:
+#     result = "这是数字"
+# elif flag in ascii_letters:
+#     result ="这是字母"
+# else :
+#     result ="这是其他字符"
+# print(result)
+
